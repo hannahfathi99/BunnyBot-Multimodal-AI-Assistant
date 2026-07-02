@@ -133,7 +133,7 @@ The database enables independent user accounts with isolated interaction histori
 
 | AI Assistant | Translator |
 |-------------|------------|
-| <img width="622" height="430" alt="Screenshot 2024-02-18 170346" src="https://github.com/user-attachments/assets/4757d4bd-c54d-4af1-921b-979d5f7b24de" />| <img width="619" height="430" alt="Screenshot 2024-02-18 170409" src="https://github.com/user-attachments/assets/764891db-09f7-42f9-a65c-30a5145ad751" />|
+| <img width="620" height="429" alt="assistant png" src="https://github.com/user-attachments/assets/741d5117-e67a-49a1-92ba-582dfb3f5c2a" />| <img width="619" height="430" alt="Screenshot 2024-02-18 170409" src="https://github.com/user-attachments/assets/764891db-09f7-42f9-a65c-30a5145ad751" />|
 
 | Image Generation | Notepad |
 |-----------------|---------|
