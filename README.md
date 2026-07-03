@@ -148,7 +148,6 @@ BunnyBot-Multimodal-AI-Assistant
 │
 ├── src
 ├── screenshots
-├── architecture
 ├── docs
 ├── database
 ├── assets
