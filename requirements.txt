@@ -1,0 +1,16 @@
+# AI
+openai==0.28.1
+
+# Speech Processing
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+PyAudio>=0.2.13
+
+# Networking
+requests>=2.31.0
+
+# HTML Parsing
+beautifulsoup4>=4.12.2
+
+# Image Processing
+Pillow>=10.0.0
