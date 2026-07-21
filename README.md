@@ -163,7 +163,7 @@ BunnyBot-Multimodal-AI-Assistant
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/BunnyBot-Multimodal-AI-Assistant.git
+git clone https://github.com/hannah-fathi/BunnyBot-Multimodal-AI-Assistant.git
 ```
 
 Install dependencies
